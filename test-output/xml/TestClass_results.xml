@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="63,887">
+  <properties />
+  
+  
+            <testcase name="sendMail" time="29,168" classname="TestClass" />
+                <testcase name="login" time="32,810" classname="TestClass" />
+                <testcase name="openMail" time="1,909" classname="TestClass" />
+      
+</testsuite>
